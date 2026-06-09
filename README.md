@@ -76,7 +76,7 @@ Vripple_out = 0.443 / 10^(75/20) = 78.8μV → 0.0005% (well below 0.1% requirem
 ---
 
 ## Simulation Results
-
+![Simulation Results](simulation_results.png)
 Simulated in **LTspice** using transient analysis (.tran 120):
 
 - Positive output: **+15V** (stable flat line)
